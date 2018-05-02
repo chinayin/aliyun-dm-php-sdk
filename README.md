@@ -1,5 +1,5 @@
-# SMS SDK for PHP
-Please refer to http://www.aliyun.com/product/sms
+# DM SDK for PHP
+Please refer to http://www.aliyun.com/product/dm
 
 ## Composer
-composer require chinayin/sms-sdk-php
+composer require chinayin/dm-sdk-php
