@@ -1,5 +1,5 @@
 {
-    "name": "chinayin/dm-php-sdk",
+    "name": "chinayin/dm-sdk-php",
     "description": "Aliyun DM SDK for PHP",
     "keywords": [ "aliyun", "dm", "sdk" ],
     "homepage": "http://www.aliyun.com/product/dm/",
